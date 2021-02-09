@@ -1,0 +1,4 @@
+jupiter
+numpy
+scipy
+matplotlib
